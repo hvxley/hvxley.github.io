@@ -21,15 +21,15 @@
 title: The Huxley Cloud
 email: cloudbhuxley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  🦊️�🦊️ The Cirrruculm Vitae of Cloud Huxley, a non-binary Developer from rural
-  Washington state.
+  The Cirrruculm Vitae of Cloud Huxley, a non-binary Freelance Developer from
+  the Olympic Peninsula of Washington state.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  hvxley
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
